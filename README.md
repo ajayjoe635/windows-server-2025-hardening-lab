@@ -17,9 +17,4 @@ Hands-on lab focused on vulnerability scanning, remote exposure validation, and 
 
 
 ## Lab Evidence
-1. **Initial Vulnerability Scan (OpenVAS/Greenbone):**
-   ![Initial OpenVAS Scan](evidence/01-openvas-initial-scan.png)
-2. **Remote Exposure Validation (CrackMapExec):**
-   ![CrackMapExec Validation](evidence/02-crackmapexec-validation.png)
-3. **Host Hardening & Remediation (PowerShell):**
-   ![PowerShell Hardening](evidence/03-powershell-hardening-execution.png)
+is shown in screenshots or labelled 
