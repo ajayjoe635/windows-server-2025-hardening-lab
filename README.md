@@ -13,3 +13,13 @@ Hands-on lab focused on vulnerability scanning, remote exposure validation, and 
 - **WinRM:** Restricted unencrypted traffic and Basic authentication defaults.
 - **TCP Timestamps:** Applied scanner-recommended PowerShell settings to address TCP timestamp exposure.
 - **RPC / MSRPC:** Executed scan-guided PowerShell remediation to disable exposed DCE/RPC and MSRPC service behavior and re-verified host posture.
+
+
+
+## Lab Evidence
+1. **Initial Vulnerability Scan (OpenVAS/Greenbone):**
+   ![Initial OpenVAS Scan](evidence/01-openvas-initial-scan.png)
+2. **Remote Exposure Validation (CrackMapExec):**
+   ![CrackMapExec Validation](evidence/02-crackmapexec-validation.png)
+3. **Host Hardening & Remediation (PowerShell):**
+   ![PowerShell Hardening](evidence/03-powershell-hardening-execution.png)
